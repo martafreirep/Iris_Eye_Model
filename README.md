@@ -2,7 +2,7 @@
 
 This project's objective has been to create an artificial intelligence model that helps in the identification of colors.
 
-A [web application](https://github.com/LorenaDeveloper/Iris-Eye/) has also been created for its use.
+A [web application](https://github.com/martafreirep/Iris-Eye/) has also been created for its use.
 
 A balanced dataset (70 images per class) of 11 colors has been used. (available in the repository)
 
@@ -69,7 +69,7 @@ The main diagonal shows the correctly predicted images for each of the classes (
 
 Clone/Download repository
 ```sh
-https://github.com/LorenaDeveloper/Iris_Eye_Model.git
+https://github.com/martafreirep/Iris_Eye_Model.git
 ```
 
 
